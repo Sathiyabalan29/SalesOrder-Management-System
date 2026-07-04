@@ -57,8 +57,8 @@ This project was developed based on the given web application development instru
 ```text
 SalesOrder-Management-System
 ├── backend
-│   ├── SalesOrderManagement.sln
-│   └── SalesOrderManagement.API
+│   ├── SalesOrderManagement.slnx
+│   └── api
 │       ├── API
 │       │   ├── Controllers
 │       │   └── Models
@@ -69,7 +69,6 @@ SalesOrder-Management-System
 │       ├── appsettings.json
 │       └── Program.cs
 ├── frontend
-│   └── SalesOrderManagement.Client
 ├── database
 │   ├── schema.sql
 │   └── sample-data.sql
