@@ -69,9 +69,6 @@ SalesOrder-Management-System
 │       ├── appsettings.json
 │       └── Program.cs
 ├── frontend
-├── database
-│   ├── schema.sql
-│   └── sample-data.sql
 ├── .gitignore
 └── README.md
 ```
